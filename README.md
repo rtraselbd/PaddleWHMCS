@@ -10,8 +10,6 @@ Welcome to the documentation for the WHMCS Paddle Payment Gateway module. This m
 2. [Installation](#installation)
 3. [Configuration](#configuration)
 4. [Usage](#usage)
-5. [Troubleshooting](#troubleshooting)
-6. [Support](#support)
 
 ## Requirements
 
