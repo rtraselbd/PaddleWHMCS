@@ -1,0 +1,30 @@
+{
+	"schema": "1.0",
+	"type": "whmcs-gateways",
+	"name": "RTPaddle",
+	"license": "MIT",
+	"category": "payments",
+	"description": {
+		"name": "Paddle Payment Gateway",
+		"tagline": "Increase your revenue, reduce costs and cut down risk Automatically",
+		"long": "The complete payments, tax, and subscriptions solution for SaaS",
+		"features": [
+			"Checkout with Paddle for a faster checkout & payment experience",
+			"Additional fees",
+			"Extra fees",
+			"WHMCS 8 Support"
+		]
+	},
+	"logo": {
+		"filename": "logo.png"
+	},
+	"support": {
+		"homepage": "https:\/\/www.uddoktapay.com\/"
+	},
+	"authors": [
+		{
+			"name": "UddoktaPay Team",
+			"homepage": "https:\/\/uddoktapay.com\/"
+		}
+	]
+}
